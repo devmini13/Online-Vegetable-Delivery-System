@@ -1,10 +1,10 @@
 # Online-Vegetable-Delivery-System
 ### Mobile Application
 
-### Member 1 - IT20271282 - Anthony C.D.K           - Manage Product
-### Member 2 - IT20148904 - D.T.D. Yapa             - Delivery Management
-### Member 3 - IT20149376 - K.A.C.M. Keragala       - Manage Payment & User 
-### Member 4 - IT20616410 - Wickramasinghe W.A.C.P  - Shopping Cart
+### Member 1 - IT20271282 - Anthony C.D.K (devmini13)                 - Manage Product
+### Member 2 - IT20148904 - D.T.D. Yapa (yapadtd)                     - Delivery Management
+### Member 3 - IT20149376 - K.A.C.M. Keragala (chamodhKeragala)       - Manage Payment & User 
+### Member 4 - IT20616410 - Wickramasinghe W.A.C.P (wickramasinghe07) - Shopping Cart
 
 ### About Our Application - 
 Our team chose the Online Vegetable Delivery System as the Mobile Application Development
