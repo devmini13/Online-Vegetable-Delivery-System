@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="tv_login">Sign in</string>
+    <string name="tv_username">Enter the name</string>
+    <string name="tv_password">Enter the password</string>
+    <string name="btn_login">Login</string>
+    <string name="tv_forgotpass">Forgot password</string>
+</resources>
