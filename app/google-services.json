@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480319859352",
+    "project_id": "onlineveggiemart",
+    "storage_bucket": "onlineveggiemart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480319859352:android:da51763bbb34a50cc0beed",
+        "android_client_info": {
+          "package_name": "com.example.onlineveggiemart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480319859352-ug215dkj8a70j1fd171cec4n772qsilr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI9MdHErYnLdfg3X2COaas9lJgmoxqWGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480319859352-ug215dkj8a70j1fd171cec4n772qsilr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

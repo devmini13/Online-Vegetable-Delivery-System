@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">OnlineVeggieMart</string>
+    <string name="text_name1">Add name of product</string>
+    <string name="text_name2">Add product availability</string>
+    <string name="text_name3">Add product price</string>
+    <string name="text_name4">Add product image URL</string>
+    <string name="text_name5">Product Name</string>
+    <string name="text_name6">Availability</string>
+    <string name="text_name7">Description</string>
+    <string name="btn_1">Edit</string>
+    <string name="btn_2">Delete</string>
+    <string name="btn_3">Update</string>
+    <string name="tv_1">Update Details</string>
+    <string name="tv_2">Add new Product</string>
+    <string name="tv_3">Name</string>
+    <string name="tv_4">Availability</string>
+    <string name="tv_5">Price</string>
+    <string name="tv_6">Image URL</string>
+    <string name="tv_7">Name</string>
+    <string name="text_name8">Add product name</string>
+    <string name="tv_8">Availability</string>
+    <string name="text_name9">Add product availability</string>
+    <string name="tv_9">Price</string>
+    <string name="text_name10">Add product price</string>
+    <string name="tv_10">Image URL</string>
+    <string name="text_name11">Add product image URL</string>
+    <string name="btn_4">Save</string>
+    <string name="btn_5">Back</string>
+    <string name="sch_1">Search</string>
+</resources>
