@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/2ndYear_2nd_Sem_4.1/MAD/LoginApp/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.2165" />
+        <entry key="..\:/2ndYear_2nd_Sem_4.1/MAD/LoginApp/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.1475" />
+        <entry key="..\:/2ndYear_2nd_Sem_4.1/MAD/LoginApp/app/src/main/res/drawable/ic_baseline_list_24.xml" value="0.2165" />
+        <entry key="..\:/2ndYear_2nd_Sem_4.1/MAD/LoginApp/app/src/main/res/drawable/ic_baseline_navigate_before_24.xml" value="0.2165" />
         <entry key="..\:/2ndYear_2nd_Sem_4.1/MAD/LoginApp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1" />
         <entry key="..\:/2ndYear_2nd_Sem_4.1/MAD/LoginApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/2ndYear_2nd_Sem_4.1/MAD/LoginApp/app/src/main/res/layout/activity_main1.xml" value="0.33" />
       </map>
     </option>
   </component>
