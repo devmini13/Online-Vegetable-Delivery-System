@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "573691197641",
+    "firebase_url": "https://veggimartproject-default-rtdb.firebaseio.com",
+    "project_id": "veggimartproject",
+    "storage_bucket": "veggimartproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573691197641:android:c0f416aad31cf5d87cb518",
+        "android_client_info": {
+          "package_name": "com.example.veggimart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573691197641-9cto0gbkb9qvucb8nj40m3843s16a3kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXF75vd7bTvpDDI7_YCuwFPlwGxDIdrQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573691197641-9cto0gbkb9qvucb8nj40m3843s16a3kl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
