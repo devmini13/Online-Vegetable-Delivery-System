@@ -78,6 +78,8 @@ public class MainActivity extends AppCompatActivity {
             public boolean onQueryTextChange(String query) {
                 txtSearch(query);
                 return false;
+
+
             }
         });
 
